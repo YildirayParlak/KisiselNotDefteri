@@ -1,7 +1,7 @@
 ## Proje Ekibi:
--https://github.com/isikaycetin/KisiselNotDefteri--Işıkay ÇETİN
+-https://github.com/isikaycetin/KisiselNotDefteri   --Işıkay ÇETİN
 
--https://github.com/YildirayParlak/KisiselNotDefteri/tree/main--Yıldıray PARLAK
+-https://github.com/YildirayParlak/KisiselNotDefteri/tree/main   --Yıldıray PARLAK
 
 # Kişisel Not Defteri Uygulaması
 
