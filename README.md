@@ -1,5 +1,6 @@
 ## Proje Ekibi:
 -https://github.com/isikaycetin/KisiselNotDefteri
+
 -https://github.com/YildirayParlak/KisiselNotDefteri/tree/main
 
 # Kişisel Not Defteri Uygulaması
